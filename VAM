@@ -1,0 +1,54 @@
+VAM is Vulnerability assessment methodology. VAM is good methodology it provides a wide view of vulnerability resources, system objectives, security alternatives, objectivity, knowledge of systems, and outside/ inside assessment of systems. Several different types of a system components are physical, cyber, human/social, and enabling infrastructures. Enabling infrastructures are items in an system that are needed to operate or for the people in that infrastructure to operate like: power, water, air, sewage, and air conditioning.
+
+The steps in VAM are :
+
+First: Identify Essential Information Functions
+
+Identifying essential support organization and staff, limited resources, security vulnerabilities, and getting this information off to the appropriate staff.  
+
+Second: Identify Essential Information Systems
+
+This step is related to the first step, but this identifies essential systems, and support systems. This step we need to also prioritizes every essential system also.
+
+Third: Identify Essential System Vulnerabilities
+
+Using the prioritization done in step too, we can do a vulnerabilities assessment. We can break this down into the different types mentioned before, Physical, Cyber, Human/Social, Infrastructure. And compare that to to vulnerability attributes general, behavioral, and Design/Architectural. They had a really nice chart. All of these require testing. We need to ask ourselves what has failed in the past and Why? What has been the effect of these failures? What corrective actions have been tried? Which ones worked? What other companies have seen in this same system? Basically doing an Incident report before implementing the new system.
+
+Fourth: Identify pertinent security techniques from candidates given by the VAM Methodology
+
+This is essentially taking your predetermined priorities list before comparing the vulnerabilities in each and finding an appropriate solution.
+
+Fifth: select and apply security techniques
+
+This step is self explanatory, taking the Ideas in step four and implementing them. I really liked how they had primary and secondary solutions to vulnerabilities. Having a backup plan or a redundancy is always good.
+
+Sixth: Test for Robustness Under Threat
+
+This is where you do the penetration testing to make sure everything is sound.
+
+My Opinion:
+
+The Chapter continues on with other vulnerabilities assessment Methodologies. In my opinion I think the Operational Risk Management Methodology(ORM) and the Operational Security Methodology(OPSEC) are better than VAM. OPSEC steps are Identify, Analyze the threat, Analyze Vulnerabilities, Assess risk, and Apply Countermeasures. ORM Steps are Identify, Assess, Make risk decisions, Implement controls, and Supervise. I would add to both of these repeat if needed, and do continuous checks. Both of these were implemented by the military. For the simple reason of being simple. I liked a lot of the things VAM does like have redundancies and the vulnerability matrix. I understand that VAM and OPSEC/ORM are essentially the same thing, but if I was explaining this as a manager I think I would use one of these methodologies. Ancestry uses a combination of ORM and OPSEC in their vulnerabilities practices. I found a really cool flow chart that makes VAM a lot easier to understand(The Pic Below). Plus OPEC and ORM are universal. 
+
+
+
+https://nigesecurityguy.files.wordpress.com/2013/06/vulnerability-process.jpg (Links to an external site.)Links to an external site.
+
+Good Security Is a Group Effort. (n.d.). Retrieved February 2, 2016, from
+http://www.osec.doc.gov/osy/PDF/DOCOPSEC.pdf (Links to an external site.)Links to an external site.
+Albania, T. (2012, September 10). Operation Risk Management: Best Practice Overview and Implementation. Retrieved February 2, 2016, from http://www.ifc.org/wps/wcm/connect/e4f8ce004d6f9e3d85c8b548b49f4568/ECA-CR_OPRISK_training.pdf?MOD=AJPERES
+from Vulnerability Management Models
+Feb 6, 2016 1:06pm
+Click to change profile picture for Alex Cannell
+I do like how the Second VAM has an Economic, Social, political Treats Identification. I feel these are very important risks to a viable system. What would your VAM model look like Parker? I think each Vulnerability Models have the exact same core elements Identify, Plan, Implement, analyze, assess issues, and apply countermeasures. 
+
+from Vulnerability Management Models
+Feb 6, 2016 6:20pm
+Click to change profile picture for Alex Cannell
+I totall agree with you when you say, "It's not a one size fits all, but take elements of each model that work for a particular organization." I think that it depends on the size of the organization, the systems in use, the security team, and funding which model you choose to use. What model do you use at SUU Mark? 
+
+from Vulnerability Management Models
+Feb 6, 2016 11:41pm
+Click to change profile picture for Alex Cannell
+I like that flow chart. I believe that every system has some type of vulnerabilities. These methodologies helps mitigate and limit vulnerabilities. "Find your weaknesses turn them into strengths and repeat the process" - unknown
+
